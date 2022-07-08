@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Alípio
 
-- 🌱 Atualmento estou cursando o 9º periodo de Engenharia da Computação, no Instituto Nacional de Telecomunicações (INATEL).
+- 🌱 Atualmento estou cursando o último ano de Engenharia da Computação, no Instituto Nacional de Telecomunicações (INATEL).
 - 👯 Estou a procura de um estágio afim de me desenvolver profissionalmente.
 - 📫 email: lucasantonio@gec.inatel.br
 - 😄 Pronouns: Ele/Dele
