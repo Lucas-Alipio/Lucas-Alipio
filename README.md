@@ -1,9 +1,11 @@
 ### Olá! Eu sou o Lucas Alípio
+#### Portfolio: https://fascinating-shortbread-48f6a7.netlify.app/
 
 - 🌱 Atualmento estou cursando o último ano de Engenharia da Computação, no Instituto Nacional de Telecomunicações (INATEL).
 - 👯 Estou a procura de um estágio afim de me desenvolver profissionalmente.
 - 📫 email: lucasantonio@gec.inatel.br
 - 😄 Pronouns: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/Lucas-Alipio">
