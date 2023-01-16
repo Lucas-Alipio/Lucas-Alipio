@@ -6,6 +6,15 @@
 - 📫 email: lucasantonio@gec.inatel.br
 
 ##
+
+<div align="center">
+  <a href="https://github.com/Lucas-Alipio">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Alipio&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Alipio&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+</div>
+
+  
+##
   
  <div style="display: inline_block"><br>
    <img align="center" alt="Lucas-C++" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
