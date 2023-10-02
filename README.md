@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Lucas Alípio
 #### Portfolio: https://fascinating-shortbread-48f6a7.netlify.app/
 
-- 🌱 Atualmento estou cursando o último ano de Engenharia da Computação, no Instituto Nacional de Telecomunicações (INATEL).
-- 👯 Estou a procura de um estágio afim de me desenvolver profissionalmente.
+- 🌱 Atualmento trabalhando como desenvolvedor full-stack junior.
+- 🎓 Bacharel em Engenharia da Computação.
 - 📫 email: lucasantonio@gec.inatel.br
 
 ##
